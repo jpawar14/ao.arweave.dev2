@@ -1,4 +1,4 @@
--- Initializing global variables to store the latest game state and game host process.
+--- Initializing global variables to store the latest game state and game host process.
 LatestGameState = {}  -- Stores all game data
 InAction = false     -- Prevents your bot from doing multiple actions
 
